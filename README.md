@@ -1,1 +1,0 @@
-# next-tailwind-template
